@@ -1,7 +1,8 @@
 Hello there, my name is `0E9B061F`. I'm a full-stack web developer currently
-working mostly with node.js. I've worked extensively with Ruby, Python and C# in
-the past. I have an interest in formal language design and parsing, and parsing
-expression grammars in particular. I also write a lot of BASH.
+working mostly with node.js and Svelte. I've worked extensively with Ruby and
+Python in the past. I have an interest in formal language design and parsing
+them, and parsing expression grammars in particular. I also write a lot of
+bash.
 
 ### Current Work
 
@@ -37,18 +38,3 @@ Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.
 ---
 
 **RELAXEN UND WATSCHEN DER BLINKENLICHTEN**
-
-<!--
-**0E9B061F/0E9B061F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

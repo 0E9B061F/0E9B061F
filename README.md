@@ -3,13 +3,13 @@ working mostly with node.js. I've worked extensively with Ruby, Python and C# in
 the past. I have an interest in formal language design and parsing, and parsing
 expression grammars in particular. I also write a lot of BASH.
 
-#### Current Work
+### Current Work
 
 I'm currently working on Commonplace Book, a wiki and PIM built on Svelte. While
 the code isn't currently public, you can see a running example at
 [0x2764.com](https://0x2764.com).
 
-#### Past Projects
+### Past Projects
 
 * [ghast.js](https://github.com/0E9B061F/ghast.js) - an abstract syntax tree
   implementation for use with peg.js
@@ -22,15 +22,15 @@ the code isn't currently public, you can see a running example at
 * [batchrename](https://github.com/0E9B061F/batchrename) - a desktop application
   for batch renaming
 
-#### Projects I've contributed to
+### Projects I've contributed to
 
 * [svelte-markdown](https://github.com/pablo-abc/svelte-markdown)
 
-#### Contact
+### Contact
 
 I can be reached at 0E9B061F@protonmail.com
 
-#### Is your name really `0E9B061F`?
+### Is your name really `0E9B061F`?
 
 Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.
 

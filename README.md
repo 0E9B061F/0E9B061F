@@ -20,12 +20,13 @@ code isn't currently public, you can see an example installation at
 * **[lexdoc](https://github.com/0E9B061F/lexdoc)** - token definition and lexer
   creation library for use with
   [Chevrotain](https://github.com/chevrotain/chevrotain)
-* **[addmag](https://github.com/pablo-abc/svelte-markdown)** - a simple configurable
-  tool to open magnet links with a remote Transmission daemon, via `xdg-open`
+* **[addmag](https://github.com/pablo-abc/svelte-markdown)** - a simple
+  configurable tool to open magnet links with a remote Transmission daemon, via
+  `xdg-open`
   * available on the [AUR](https://aur.archlinux.org/packages/addmag)
 * **[pig](https://github.com/0E9B061F/pig)** - a simple image scraper
-* **[batchrename](https://github.com/0E9B061F/batchrename)** - a desktop application
-  for batch renaming
+* **[batchrename](https://github.com/0E9B061F/batchrename)** - a desktop
+  application for batch renaming
 
 ## Projects I've contributed to
 
@@ -41,4 +42,5 @@ Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.
 
 ---
 
-**RELAXEN UND WATSCHEN DER [BLINKENLICHTEN](https://en.wikipedia.org/wiki/Blinkenlights)**
+**RELAXEN UND WATSCHEN DER
+[BLINKENLICHTEN](https://en.wikipedia.org/wiki/Blinkenlights)**

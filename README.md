@@ -4,7 +4,7 @@ Python in the past. I have an interest in formal languages and parsing
 them, and parsing expression grammars in particular. I also write a lot of
 bash.
 
-### Current Work
+## Current Work
 
 I'm currently working on Commonplace Book, a wiki and PIM built on Svelte. While
 the code isn't currently public, you can see a running example at
@@ -27,7 +27,7 @@ the code isn't currently public, you can see a running example at
 
 * [svelte-markdown](https://github.com/pablo-abc/svelte-markdown)
 
-### Contact
+## Contact
 
 I can be reached at 0E9B061F@protonmail.com
 
@@ -37,4 +37,4 @@ Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.
 
 ---
 
-**RELAXEN UND WATSCHEN DER BLINKENLICHTEN**
+**RELAXEN UND WATSCHEN DER [BLINKENLICHTEN](https://en.wikipedia.org/wiki/Blinkenlights)**

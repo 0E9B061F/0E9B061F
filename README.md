@@ -1,6 +1,6 @@
 Hello there, my name is `0E9B061F`. I'm a full-stack web developer currently
 working mostly with node.js and Svelte. I've worked extensively with Ruby and
-Python in the past. I have an interest in formal language design and parsing
+Python in the past. I have an interest in formal languages and parsing
 them, and parsing expression grammars in particular. I also write a lot of
 bash.
 

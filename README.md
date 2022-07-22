@@ -13,16 +13,16 @@ code isn't currently public, you can see an example installation at
 
 ## Past Projects
 
-* [ghast.js](https://github.com/0E9B061F/ghast.js) - an abstract syntax tree
+* **[ghast.js](https://github.com/0E9B061F/ghast.js)** - an abstract syntax tree
   implementation for use with [peg.js](https://github.com/pegjs/pegjs)
-* [lexdoc](https://github.com/0E9B061F/lexdoc) - token definition and lexer
+* **[lexdoc](https://github.com/0E9B061F/lexdoc)** - token definition and lexer
   creation library for use with
   [Chevrotain](https://github.com/chevrotain/chevrotain)
-* [addmag](https://github.com/pablo-abc/svelte-markdown) - a simple configurable
+* **[addmag](https://github.com/pablo-abc/svelte-markdown)** - a simple configurable
   tool to open magnet links with a remote Transmission daemon, via `xdg-open`
   * available on the [AUR](https://aur.archlinux.org/packages/addmag)
-* [pig](https://github.com/0E9B061F/pig) - a simple image scraper
-* [batchrename](https://github.com/0E9B061F/batchrename) - a desktop application
+* **[pig](https://github.com/0E9B061F/pig)** - a simple image scraper
+* **[batchrename](https://github.com/0E9B061F/batchrename)** - a desktop application
   for batch renaming
 
 ## Projects I've contributed to

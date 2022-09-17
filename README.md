@@ -36,6 +36,8 @@ code isn't currently public, you can see an example installation at
 
 I can be reached at 0E9B061F@protonmail.com
 
+Keybase: [keybase.io/0E9B061F](https://keybase.io/0E9B061F)
+
 ## Is your name really `0E9B061F`?
 
 Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.

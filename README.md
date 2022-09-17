@@ -26,8 +26,8 @@ I can be reached at 0E9B061F@protonmail.com
 
 # Links
 
-* [keybase.io/0E9B061F](https://keybase.io/0E9B061F)
-* [keybase.pub/0E9B061F](https://keybase.pub/0e9b061f)
+* [keybase.io/0e9b061f](https://keybase.io/0e9b061f) (`keybase id 0e9b061f`)
+* [keybase.pub/0e9b061f](https://keybase.pub/0e9b061f)
 
 ## Is your name really `0E9B061F`?
 

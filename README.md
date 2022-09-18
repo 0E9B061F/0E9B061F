@@ -23,7 +23,7 @@ I've contributed to [svelte-markdown](https://github.com/pablo-abc/svelte-markdo
 
 I can be reached at 0E9B061F@protonmail.com
 
-# Links
+## Links
 
 * [keybase.io/0e9b061f](https://keybase.io/0e9b061f) (`keybase id 0e9b061f`)
 * [keybase.pub/0e9b061f](https://keybase.pub/0e9b061f)

@@ -1,23 +1,16 @@
 # Hello there, my name is `0E9B061F`
 
-I'm a full-stack web developer currently working mostly with node.js and
-[Svelte](https://github.com/sveltejs/svelte). I have an interest in formal languages and parsing them,
-and [parsing expression
-grammars](https://en.wikipedia.org/wiki/Parsing_expression_grammar) in
-particular. I also write a lot of bash.
+And I'm a programmer. I do front- and back-end web development ([CPB][cpb],
+[fantasma.js][fantasma], [waxwing.js][waxwing]). I write system tools
+([scroll][scroll], [hashbeam][hashbeam], [imgfilter][imgfilter]) and I'm
+interested in parsing ([ghast.js][ghast], [lexdoc][lexdoc]). I mostly work with
+node.js and Python currently, and I write a lot of bash. I also have experience
+with Ruby, C#, and a few other languages. I've had the misfortune of writing
+some R. I've been using [Svelte][svelte] a lot lately and created
+[phaser-svelte-ui-example][svelteui], which uses Svelte components as UI
+elements for a [Phaser][phaser] game. 
 
-# Current Work
-
-I'm currently working on **Commonplace Book**, a wiki built on Svelte. While the
-code isn't currently public, you can see an example installation at
-[0x2764.com](https://0x2764.com).
-
-## Past Projects
-
-See my pinned repositories below. I'm interested in parsing (**[ghast.js](https://github.com/0E9B061F/ghast.js)**,
-**[lexdoc](https://github.com/0E9B061F/lexdoc)**) and the web (**[fantasma.js](https://github.com/0E9B061F/fantasma.js)**, **[panopticon.js](https://github.com/0E9B061F/panopticon.js)**, **[arkweb](https://github.com/0E9B061F/arkweb)**), and I occasionally create small system utilities (**[addmag](https://github.com/0E9B061F/addmag)**). I mostly work with JavaScript, Python and Ruby.
-
-I've contributed to [svelte-markdown](https://github.com/pablo-abc/svelte-markdown).
+I've contributed to [svelte-markdown][svelte-md].
 
 # Contact
 
@@ -25,14 +18,48 @@ I can be reached at 0E9B061F@protonmail.com
 
 ## Links
 
-* [keybase.io/0e9b061f](https://keybase.io/0e9b061f) (`keybase id 0e9b061f`)
-* [keybase.pub/0e9b061f](https://keybase.pub/0e9b061f)
+* [downtranslated.com][blog] - Blog/Portfolio<br/>
+  Mirrors:
+  * [0E9B061F.github.io][mirror-a]
+  * [0E9B061F.gitlab.io][mirror-b]
+* [0x2764.com][0x2764] - Personal site running [CPB][cpb]. Usually up 🙏🚧
+* [npmjs.com/~0e9b061f][npm] - My npm packages
+* [keybase.io/0e9b061f][keybase]
 
-## Is your name really `0E9B061F`?
+# FAQ
 
-Not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`.
+#### Is your name really `0E9B061F`?
+
+No not at all! My real name is `0E9B061F-1A2A-490D-B35C-5CDD2BEE2CDD`, but my
+friends call me `nn`.
 
 ---
 
-**RELAXEN UND WATSCHEN DER
-[BLINKENLICHTEN](https://en.wikipedia.org/wiki/Blinkenlights)**
+**RELAXEN UND WATSCHEN DER [BLINKENLICHTEN][lights]**
+
+[addmag]:https://github.com/0E9B061F/addmag
+[panopticon]:https://github.com/0E9B061F/panopticon.js
+[fantasma]:https://github.com/0E9B061F/fantasma.js
+[lexdoc]:https://github.com/0E9B061F/lexdoc
+[ghast]:https://github.com/0E9B061F/ghast.js
+[cpb]:https://github.com/0E9B061F/cpb
+[scroll]:https://github.com/0E9B061F/scroll
+[waxwing]:https://github.com/0E9B061F/waxwing.js
+[hashbeam]:https://github.com/0E9B061F/hashbeam
+[imgfilter]:https://github.com/0E9B061F/imgfilter
+[svelteui]:https://github.com/0E9B061F/phaser-svelte-ui-example
+
+[svelte-md]:https://github.com/pablo-abc/svelte-markdown
+
+[blog]:https://downtranslated.com
+[mirror-a]:https://0E9B061F.github.io
+[mirror-b]:https://0E9B061F.gitlab.io
+[0x2764]:https://0x2764.com
+[keybase]:https://keybase.io/0e9b061f
+[npm]:https://www.npmjs.com/~0e9b061f
+
+[svelte]:https://github.com/sveltejs/svelte
+[phaser]:https://github.com/phaserjs/phaser
+
+[peg]:https://en.wikipedia.org/wiki/Parsing_expression_grammar
+[lights]:https://en.wikipedia.org/wiki/Blinkenlights
